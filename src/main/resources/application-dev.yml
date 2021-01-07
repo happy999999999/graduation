@@ -1,0 +1,63 @@
+server:
+  tomcat:
+    max-connections: 5000
+    uri-encoding: UTF-8
+    threads:
+      max: 2000
+    remoteip:
+      remote-ip-header: x-forwarded-for
+      protocol-header: x-forwarded-proto
+    remote:
+      port-header: X-Forwarded-Port
+  servlet:
+    context-path: /graduation
+
+
+spring:
+  #redis配置
+  redis:
+    database: 0
+    host: 122.9.39.74
+    port: 6379
+    password: rootroot
+    timeout: 20000
+#    lettuce:
+#      pool:
+#        max-active: 8
+#        max-idle: 8
+#        min-idle: 1
+#        max-wait: 8000
+
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://122.9.39.74:3306/graduation?characterEncoding=utf8&serverTimezone=GMT%2B8&useSSL=false
+    username: root
+    password: rootroot
+    druid:
+      filters: config,wall,stat # 配置监控统计拦截的filters，去掉后监控界面sql无法统计，'wall'用于防火墙
+      initial-size: 5 #初始化数量
+      min-idle: 3  #最小连接池数量
+      max-active: 20 #最大连接池数量
+      max-wait: 60000 #连接超时时间
+      pool-prepared-statements: true #打开psCache, 对支持游标的数据库性能提升巨大
+      max-pool-prepared-statement-per-connection-size: 20 #指定每个连接PsCache的大小
+      time-between-eviction-runs-millis: 6000 #配置间隔多久检测需要关闭的空闲连接，单位毫秒
+      min-evictable-idle-time-millis: 300000 #空闲连接多久后可被清除，单位毫秒
+      validation-query: select 'x' #验证数据库连接的查询语句
+      test-while-idle: true #当连接空闲时，是否执行连接测试
+      test-on-borrow: false #当从连接池借用连接时，是否测试该连接
+      test-on-return: false #在连接归还到连接池时是否测试该连接
+      connection-init-sqls: set names utf8mb4;
+      #connect-properties:  # 打开mergeSql，慢sql记录
+
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  params: count=countSql
+
+
+
+
