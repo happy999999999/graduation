@@ -2,19 +2,15 @@ package com.ss.graduation.controller;
 
 import com.alibaba.fastjson.JSONObject;
 import com.ss.graduation.model.SendMessage;
-import com.sun.xml.internal.ws.resources.SenderMessages;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.*;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
 import java.net.URL;
 
 @Controller
@@ -109,8 +105,8 @@ public class TestController {
         String url = "https://api.weixin.qq.com/cgi-bin/message/subscribe/send?access_token=40_zECRTT9y9Ootu883i_zjXidrFPK3J-fwoPrQvaqxpFh6xs4mQFlahcBEKHaWL6oHYISpDu87FJOjdkfxhmtH7GK6zg18dTpeRnC7cmJQuzU1JCgTtDZus_1XZx5xf7EZA6j_Y1GFlgFZN-yGEMCcACAYGW";
         String parm = sendMessage.toString();
         postUrl(url, parm);
+        log.info("发送消息");
     }
-
     //调用接口
     private String postUrl(String arl, String parm) throws Exception {
         // 创建url资源
