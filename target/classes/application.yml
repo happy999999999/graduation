@@ -1,6 +1,10 @@
 spring:
   profiles:
     active: dev
+  mvc:
+    view:
+      prefix: /templates
+      suffix: .html
 # log config
 logging:
   config: classpath:logback-spring.xml

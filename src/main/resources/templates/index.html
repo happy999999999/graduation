@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>聊天界面</title>
+</head>
+<body>
+    <div  style="OVERFLOW-Y: auto; OVERFLOW-X:hidden;" id="showAllUserName">
+        <p style="color:green;font-family: 华文琥珀;"> 在线用户：</p>
+    </div>
+    <div style="OVERFLOW-Y: auto; OVERFLOW-X:hidden;" id="divMessage">
+        
+    </div>
+
+    <div id="divOperation">
+        <p>
+            昵称：<input style="width:120px;line-height:20px;" type="text" maxlength="5" id="txtUserName" /></p>
+            <span id="spanUserName" class="red">未连接</span>
+        </p>
+        <p>
+            消息输入(可输入HTML代码)：<textarea id="txtMessage" cols="50" rows="4"></textarea>
+        </p>
+        <p>
+            <input type="button" id="btnConnection" value="连接" /><span id="spanMessage"></span>
+            <input type="button" disabled id="btnSend" value="发送"/>
+            <input type="button" disabled id="btnClose" value="关闭" />
+        </p>
+    </div>
+    <script  type="text/javascript" src="../static/jquery-3.2.1.js"></script>
+    <script>
+
+        var socket;
+        if(typeof(WebSocket)=="undefined"){
+            alert("您的浏览器不支持WebSocket");
+        }
+
+        //连接点击
+        $("#btnConnection").click(function(){
+            var name = $("#txtUserName").val();
+
+            if(name==null || name==""){
+                $("#spanUserName").text("用户名格式错误!").prop("class","red");
+                return;
+            }
+
+            //实例化WebSocket,指定要连接的服务器地址与端口
+            socket = new WebSocket("ws://localhost:8080/graduation/ws/"+name);
+
+            //打开事件
+            socket.onopen = function () {
+                console.log("Socket已打开");
+                $("#spanUserName").text("已连接").prop("class","green");
+                $("#btnConnection").prop("disabled",true);
+                $("#btnSend").prop("disabled",false);
+                $("#btnClose").prop("disabled",false);
+                $("#txtUserName").prop("disabled",true);
+            }
+
+            //获得消息事件
+            socket.onmessage = function (msg) {
+
+                var sign = msg.data.substring(0,msg.data.indexOf("&"));
+                var content = msg.data.substring(msg.data.indexOf("&")+1);
+
+
+                if(sign=="userAllName"){ //所有在线用户信息处理
+                    var userNames = content.split(",");
+
+                    //除了第一个p标签，其余清空
+                    $("#showAllUserName p:gt(0)").remove();
+
+                    for(var i=0;i<userNames.length;i++){
+                        $("#showAllUserName").append($("<p/>").html(" "+userNames[i]));
+                    }
+
+                }
+                else if(sign=="userMessage"){ //用户发送信息处理
+                    var p = $("<p/>").html("  "+content);
+                    $("#divMessage").append(p);
+                }
+            }
+
+            //关闭事件
+            socket.onclose = function(){
+                console.log("socket已关闭");
+            }
+
+            //发生错误的事件
+            socket.onerror = function(){
+                console.log("发生了错误");
+            }
+        });
+
+        //发送消息
+        $("#btnSend").click(function(){
+            if(document.getElementById("txtMessage").value=="" || document.getElementById("txtMessage").value==null){
+               alert("消息不能为空！");
+                return;
+            }
+
+            socket.send(document.getElementById("txtMessage").value);
+            document.getElementById("txtMessage").value = "";
+        });
+
+        //关闭事件
+        $("#btnClose").click(function(){
+            socket.close();
+            $("#btnConnection").prop("disabled",false);
+            $("#btnClose").prop("disabled",true);
+            $("#btnSend").prop("disabled",true);
+            $("#spanUserName").text("已断开").prop("class","red");
+            $("#txtUserName").prop("disabled",false);
+            $("#txtUserName").prop("value","");
+            $("#divMessage p").remove();
+            $("#showAllUserName p:gt(0)").remove();
+        });
+
+    </script>
+</body>
+</html>
