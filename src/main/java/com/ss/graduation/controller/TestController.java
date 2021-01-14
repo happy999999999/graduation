@@ -108,7 +108,7 @@ public class TestController {
         log.info("发送消息");
     }
     //调用接口
-    private String postUrl(String arl, String parm) throws Exception {
+    private String postUrl(String arl, String parm){
         // 创建url资源
         OutputStreamWriter out = null;
         URL url;

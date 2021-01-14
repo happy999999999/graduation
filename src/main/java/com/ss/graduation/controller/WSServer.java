@@ -23,8 +23,6 @@ public class WSServer {
         sendOutMessage();
     }
 
-
-
     //收到消息时执行
     @OnMessage
     public void onMessage(String message,Session session) throws IOException {
