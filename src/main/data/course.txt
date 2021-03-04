@@ -1,0 +1,1195 @@
+		<tr>
+			<td>1</td>
+			<td rowspan="16">2017-2018-1</td>
+			<td align="left">S1700011</td>
+			<td align="left">形势与政策1</td>
+			<td align="left">马克思主义学院</td>
+			<td>1</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>2</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">S2200020</td>
+			<td align="left">军事训练</td>
+			<td align="left">学工武装部</td>
+			<td>2</td>
+			<td>80</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>	
+		</tr>
+		
+		<tr>
+			<td>3</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X0300181</td>
+			<td align="left">高等数学A1</td>
+			<td align="left">理学院</td>
+			<td>4.5</td>
+			<td>72</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>4</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X0300880</td>
+			<td align="left">线性代数</td>
+			<td align="left">理学院</td>
+			<td>2.5</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>5</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X0600240</td>
+			<td align="left">程序设计语言基础</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2.5</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>6</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X0601480</td>
+			<td align="left">管理学</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>7</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X1200881</td>
+			<td align="left">大学英语一级1</td>
+			<td align="left">外国语学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>8</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X1200891</td>
+			<td align="left">大学英语二级1</td>
+			<td align="left">外国语学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>9</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X1200901</td>
+			<td align="left">大学英语三级1</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>10</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X1200911</td>
+			<td align="left">大学日语1</td>
+			<td align="left">外国语学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>11</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X1200921</td>
+			<td align="left">大学俄语1</td>
+			<td align="left">外国语学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>12</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X1500011</td>
+			<td align="left">体育1</td>
+			<td align="left">体育部</td>
+			<td>1</td>
+			<td>31</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>13</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X1700030</td>
+			<td align="left">思想道德修养与法律基础</td>
+			<td align="left">马克思主义学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>14</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X1700061</td>
+			<td align="left">思想政治理论研讨课1</td>
+			<td align="left">马克思主义学院</td>
+			<td>1</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>15</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X2000020</td>
+			<td align="left">军事理论</td>
+			<td align="left">网络课程</td>
+			<td>1</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>16</td>
+			<td style="display: none;">2017-2018-1</td>
+			<td align="left">X2200020</td>
+			<td align="left">大学生心理健康教育</td>
+			<td align="left">学工武装部</td>
+			<td>0.5</td>
+			<td>8</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>17</td>
+			<td rowspan="13">2017-2018-2</td>
+			<td align="left">S0600080</td>
+			<td align="left">高级语言课程设计</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>1</td>
+			<td>40</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>18</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">S1700012</td>
+			<td align="left">形势与政策2</td>
+			<td align="left">马克思主义学院</td>
+			<td>1</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>19</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">X0300182</td>
+			<td align="left">高等数学A2</td>
+			<td align="left">理学院</td>
+			<td>6.5</td>
+			<td>104</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>20</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">X0301140</td>
+			<td align="left">大学物理B</td>
+			<td align="left">理学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>21</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">X0600330</td>
+			<td align="left">高级语言程序设计</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2.5</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>22</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">X0600550</td>
+			<td align="left">离散数学</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>23</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">X0601120</td>
+			<td align="left">专业导论</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>1</td>
+			<td>16</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>24</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">X1200882</td>
+			<td align="left">大学英语一级2</td>
+			<td align="left">外国语学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>25</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">X1200892</td>
+			<td align="left">大学英语二级2</td>
+			<td align="left">外国语学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>26</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">X1200902</td>
+			<td align="left">大学英语三级2</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>27</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">X1200912</td>
+			<td align="left">大学日语2</td>
+			<td align="left">外国语学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>28</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">X1200922</td>
+			<td align="left">大学俄语2</td>
+			<td align="left">外国语学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>29</td>
+			<td style="display: none;">2017-2018-2</td>
+			<td align="left">X1500012</td>
+			<td align="left">体育2</td>
+			<td align="left">体育部</td>
+			<td>1</td>
+			<td>31</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>30</td>
+			<td rowspan="19">2018-2019-1</td>
+			<td align="left">S0600160</td>
+			<td align="left">数据结构课程设计</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>80</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>31</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X0300060</td>
+			<td align="left">大学物理实验B</td>
+			<td align="left">理学院</td>
+			<td>1</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>32</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X0300170</td>
+			<td align="left">概率论与数理统计</td>
+			<td align="left">理学院</td>
+			<td>3.5</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>33</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X0600830</td>
+			<td align="left">数据结构</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>4</td>
+			<td>72</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>34</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X0600910</td>
+			<td align="left">数字逻辑</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>3</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>35</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X0803120</td>
+			<td align="left">经济学原理</td>
+			<td align="left">经济管理学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>36</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1200883</td>
+			<td align="left">大学英语一级3</td>
+			<td align="left">外国语学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>37</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1200913</td>
+			<td align="left">大学日语3</td>
+			<td align="left">外国语学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>38</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1200923</td>
+			<td align="left">大学俄语3</td>
+			<td align="left">外国语学院</td>
+			<td>3</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>39</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1201040</td>
+			<td align="left">高级英语口语</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>40</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1201050</td>
+			<td align="left">高级英语写作</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>41</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1201060</td>
+			<td align="left">英语演讲与辩论</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>42</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1201070</td>
+			<td align="left">雅思听力</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>43</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1201080</td>
+			<td align="left">英国社会与文化</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>44</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1201090</td>
+			<td align="left">英美报刊选读</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>45</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1201100</td>
+			<td align="left">英美文学经典</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>46</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1201110</td>
+			<td align="left">希腊神话</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>47</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1700010</td>
+			<td align="left">马克思主义基本原理</td>
+			<td align="left">马克思主义学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>48</td>
+			<td style="display: none;">2018-2019-1</td>
+			<td align="left">X1700062</td>
+			<td align="left">思想政治理论研讨课2</td>
+			<td align="left">马克思主义学院</td>
+			<td>1.5</td>
+			<td>24</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>49</td>
+			<td rowspan="18">2018-2019-2</td>
+			<td align="left">S0600150</td>
+			<td align="left">软件认识实习</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>1</td>
+			<td>40</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>50</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">S0600180</td>
+			<td align="left">数据库设计</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>1</td>
+			<td>40</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>51</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X0600060</td>
+			<td align="left">C++程序设计</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2.5</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>52</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X0600730</td>
+			<td align="left">软件工程导论</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>3.5</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>53</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X0600760</td>
+			<td align="left">软件需求管理</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>54</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X0600870</td>
+			<td align="left">数据库系统原理</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>3</td>
+			<td>56</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>55</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X0601330</td>
+			<td align="left">Java程序设计</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2.5</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>56</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X0601600</td>
+			<td align="left">计算机组成原理</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2.5</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>57</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X0601640</td>
+			<td align="left">面向对象的软件界面设计</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>58</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X1201120</td>
+			<td align="left">高级英语翻译</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>59</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X1201130</td>
+			<td align="left">高级英语视听</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>60</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X1201140</td>
+			<td align="left">国际商务礼仪</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>61</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X1201150</td>
+			<td align="left">美国社会与文化</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>62</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X1201170</td>
+			<td align="left">英语电影赏析</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>63</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X1201180</td>
+			<td align="left">跨文化交际</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>64</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X1201190</td>
+			<td align="left">托福阅读</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>65</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X1201220</td>
+			<td align="left">新闻英语听力</td>
+			<td align="left">外国语学院</td>
+			<td>2</td>
+			<td>32</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>66</td>
+			<td style="display: none;">2018-2019-2</td>
+			<td align="left">X1700040</td>
+			<td align="left">中国近现代史纲要</td>
+			<td align="left">马克思主义学院</td>
+			<td>1.5</td>
+			<td>24</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>67</td>
+			<td rowspan="13">2019-2020-1</td>
+			<td align="left">S0600210</td>
+			<td align="left">系统分析与设计</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>80</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>68</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">S0601360</td>
+			<td align="left">设计模式应用实践</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>1</td>
+			<td>40</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>69</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">S1700020</td>
+			<td align="left">思想政治理论课实践</td>
+			<td align="left">马克思主义学院</td>
+			<td>2</td>
+			<td>80</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>70</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">X0600230</td>
+			<td align="left">操作系统原理</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>3.5</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>71</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">X0600470</td>
+			<td align="left">计算机网络</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2.5</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>72</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">X0601530</td>
+			<td align="left">.Net程序设计</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2.5</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>73</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">X0601540</td>
+			<td align="left">Web开发技术</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2.5</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>74</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">X0601610</td>
+			<td align="left">系统分析与设计</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2.5</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>75</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">X0601620</td>
+			<td align="left">软件体系结构</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>76</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">X0601650</td>
+			<td align="left">嵌入式系统原理</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>77</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">X0601660</td>
+			<td align="left">Web前端开发技术</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>78</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">X1700020</td>
+			<td align="left">毛泽东思想和中国特色社会主义理论体系概论</td>
+			<td align="left">马克思主义学院</td>
+			<td>4</td>
+			<td>64</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>79</td>
+			<td style="display: none;">2019-2020-1</td>
+			<td align="left">X1700050</td>
+			<td align="left">习近平总书记系列重要讲话专题辅导</td>
+			<td align="left">马克思主义学院</td>
+			<td>1</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>80</td>
+			<td rowspan="10">2019-2020-2</td>
+			<td align="left">S0600130</td>
+			<td align="left">软件工程项目实践</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>3</td>
+			<td>120</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>81</td>
+			<td style="display: none;">2019-2020-2</td>
+			<td align="left">S0600140</td>
+			<td align="left">软件过程管理与测试</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>80</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>82</td>
+			<td style="display: none;">2019-2020-2</td>
+			<td align="left">X0600170</td>
+			<td align="left">Web系统框架</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2.5</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>83</td>
+			<td style="display: none;">2019-2020-2</td>
+			<td align="left">X0600190</td>
+			<td align="left">XML与WEB service技术</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>84</td>
+			<td style="display: none;">2019-2020-2</td>
+			<td align="left">X0600310</td>
+			<td align="left">服务科学与SOA基础</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>85</td>
+			<td style="display: none;">2019-2020-2</td>
+			<td align="left">X0600600</td>
+			<td align="left">企业资源计划</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>86</td>
+			<td style="display: none;">2019-2020-2</td>
+			<td align="left">X0600640</td>
+			<td align="left">嵌入式软件开发</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>87</td>
+			<td style="display: none;">2019-2020-2</td>
+			<td align="left">X0600750</td>
+			<td align="left">软件项目管理</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>88</td>
+			<td style="display: none;">2019-2020-2</td>
+			<td align="left">X0601580</td>
+			<td align="left">移动终端软件设计</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2.5</td>
+			<td>48</td>
+			<td>考试</td>
+			<td>选修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>89</td>
+			<td style="display: none;">2019-2020-2</td>
+			<td align="left">X0601630</td>
+			<td align="left">软件质量保证与测试</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>2</td>
+			<td>40</td>
+			<td>考试</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>90</td>
+			<td rowspan="2">2020-2021-1</td>
+			<td align="left">S0601390</td>
+			<td align="left">生产实习</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>5</td>
+			<td>200</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>91</td>
+			<td style="display: none;">2020-2021-1</td>
+			<td align="left">X0601520</td>
+			<td align="left">IT职业道德与素养</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>1</td>
+			<td>16</td>
+			<td>考查</td>
+			<td>必修</td>
+			<td>是</td>
+		</tr>
+		
+		<tr>
+			<td>92</td>
+			<td>2020-2021-2</td>
+			<td align="left">S0600030</td>
+			<td align="left">毕业设计（论文）</td>
+			<td align="left">信息与计算机工程学院</td>
+			<td>14</td>
+			<td>560</td>
+			<td>考查</td>
+			<td>实践教学</td>
+			<td>是</td>
+		</tr>

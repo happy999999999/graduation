@@ -3,8 +3,10 @@ package com.ss.graduation.controller;
 import com.alibaba.fastjson.JSONObject;
 import com.ss.graduation.model.SendMessage;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.http.MediaType;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.servlet.http.HttpServletRequest;
@@ -42,6 +44,17 @@ public class TestController {
         out.flush();
         out.close();
         log.info("调用图片");
+    }
+
+//    @RequestMapping(value = "/image",produces = MediaType.IMAGE_JPEG_VALUE)
+    @RequestMapping(value = "/image")
+    @ResponseBody
+    public byte[] test() throws Exception {
+        File file = new File(picturePath + "1.jpg");
+        FileInputStream inputstream = new FileInputStream(file);
+        byte[] bytes = new byte[inputstream.available()];
+        inputstream.read(bytes, 0, inputstream.available());
+        return bytes;
     }
 
     /**
